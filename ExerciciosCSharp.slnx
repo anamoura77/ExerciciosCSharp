@@ -1,4 +1,17 @@
 <Solution>
+  <Folder Name="/Lista03/">
+    <Project Path="Exercicio31/Exercicio31.csproj" Id="0448468f-922e-4393-a26a-3ea64060fe23" />
+    <Project Path="Exercicio32/Exercicio32.csproj" Id="3eb34b61-cdfc-4f29-ace9-b5089635b13a" />
+    <Project Path="Exercicio33/Exercicio33.csproj" Id="41b787da-f150-4363-838c-21f1759d6fc9" />
+    <Project Path="Exercicio34/Exercicio34.csproj" Id="c7366c9d-1bb4-4067-9ef6-8e24b439869d" />
+    <Project Path="Exercicio35/Exercicio35.csproj" Id="f83d212e-d376-4f89-bf85-5e0404474208" />
+    <Project Path="Exercicio36/Exercicio36.csproj" Id="197485b9-fcd9-4339-b2f5-5e4c80888169" />
+    <Project Path="Exercicio37/Exercicio37.csproj" Id="f663b45d-cb2c-47fd-b214-d96f6295feee" />
+    <Project Path="Exercicio38/Exercicio38.csproj" Id="29b0ef0a-38f7-4c25-8a01-d31addf6a67c" />
+    <Project Path="Exercicio39/Exercicio39.csproj" Id="5d0aef40-be39-40e7-97d7-56be3a6d1156" />
+    <Project Path="Exercicio40/Exercicio40.csproj" Id="c7b6e888-7609-47be-af62-a460f9f46d54" />
+    <Project Path="Exercicio41/Exercicio41.csproj" Id="1500ab18-9c17-4e8f-ad71-28aa39beaff2" />
+  </Folder>
   <Folder Name="/Material/">
     <Project Path="NotaDoAluno/NotaDoAluno.csproj" Id="60099b78-0226-4445-9183-451b5f5c3782" />
     <Project Path="OlaMundo/OlaMundo.csproj" />
